@@ -9,7 +9,3 @@ https://stackoverflow.com/questions/15227305/what-is-the-default-jenkins-passwor
 https://serverfault.com/questions/664643/how-can-i-upgrade-to-java-1-8-on-an-amazon-linux-server
 
 (Failed to connect to repository : Error performing command: C:\Program Files\Git ls-remote -h )https://stackoverflow.com/questions/8639501/jenkins-could-not-run-git/18278792
-
-
-
-ssssssssss
